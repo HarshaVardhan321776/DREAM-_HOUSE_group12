@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "password": "password123"
+    },
+    {
+      "name": "akhil",
+      "email": "mura123@gmail.com",
+      "password": "123",
+      "createdAt": "2025-12-03T17:11:40.065Z",
+      "id": 2
+    },
+    {
+      "name": "surya",
+      "email": "surya@gmail.com",
+      "password": "1234",
+      "createdAt": "2025-12-04T06:08:50.307Z",
+      "id": 4
+    },
+    {
+      "name": "MAHENDRA",
+      "email": "mahi@gmail.com",
+      "password": "2006",
+      "createdAt": "2025-12-04T13:54:48.491Z",
+      "id": 5
+    },
+    {
+      "name": "sairam",
+      "email": "sairam@gmail.com",
+      "password": "654321",
+      "createdAt": "2025-12-04T14:22:18.167Z",
+      "id": 9,
+      "updatedAt": "2025-12-04T14:27:12.099Z"
+    },
+    {
+      "name": "S.HARSHA",
+      "email": "harsha@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-12-04T14:53:16.048Z",
+      "id": 10
+    },
+    {
+      "name": "roy",
+      "email": "roy@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-12-04T14:59:20.023Z",
+      "id": 11
+    },
+    {
+      "name": "S.HARSHA",
+      "email": "harsha123@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-12-04T15:13:01.337Z",
+      "id": 12
+    },
+    {
+      "name": "malli",
+      "email": "malli@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-12-05T05:27:56.095Z",
+      "id": 13
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-12-05T11:35:47.968Z",
+      "id": 14
+    }
+  ],
+  "requests": [
+    {
+      "propertyId": 17,
+      "propertyName": "Apartament 17",
+      "agentName": "Grover Robinson",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "6305710500",
+      "message": "hgdgy",
+      "userId": null,
+      "createdAt": "2025-12-03T17:26:12.036Z",
+      "id": 1
+    },
+    {
+      "propertyId": 17,
+      "propertyName": "Apartament 17",
+      "agentName": "Grover Robinson",
+      "name": "akhil",
+      "email": "murahari123@gmail.com",
+      "phone": "7989918097",
+      "message": "Hello, I am interested in [Modern apartment]",
+      "userId": null,
+      "createdAt": "2025-12-03T17:27:45.916Z",
+      "id": 2
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "House 1",
+      "agentName": "Patricia Tullert",
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "phone": "7868755234",
+      "message": "help",
+      "userId": null,
+      "createdAt": "2025-12-03T17:33:09.935Z",
+      "id": 3
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "House 1",
+      "agentName": "Patricia Tullert",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "6305710500",
+      "message": "hfiutgfb effegvv",
+      "userId": null,
+      "createdAt": "2025-12-03T17:37:06.613Z",
+      "id": 4
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "House 1",
+      "agentName": "Patricia Tullert",
+      "name": "kjgcgv",
+      "email": "dwkgfyug@gmail.com",
+      "phone": "6305710500",
+      "message": "jiuyi",
+      "userId": 2,
+      "createdAt": "2025-12-03T18:09:49.177Z",
+      "id": 5
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "House 1",
+      "agentName": "Patricia Tullert",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "6305710500",
+      "message": "bhjdgfugfbf",
+      "userId": 4,
+      "createdAt": "2025-12-04T06:09:51.657Z",
+      "id": 6
+    },
+    {
+      "propertyId": 10,
+      "propertyName": "House 7",
+      "agentName": "Vera Levesque",
+      "name": "hi",
+      "email": "mura@gmail.com",
+      "phone": "7895456214",
+      "message": "hiojioDSJIPASJ",
+      "userId": 2,
+      "createdAt": "2025-12-04T13:31:15.136Z",
+      "id": 7
+    },
+    {
+      "propertyId": 17,
+      "propertyName": "Apartament 17",
+      "agentName": "Grover Robinson",
+      "name": "qsveudb",
+      "email": "abc@gmai.com",
+      "phone": "8948156118",
+      "message": "SDNAEJOENIORPMR;MD",
+      "userId": 4,
+      "createdAt": "2025-12-04T13:36:26.559Z",
+      "id": 8
+    },
+    {
+      "propertyId": 2,
+      "propertyName": "House 2",
+      "agentName": "Daryl Hawker",
+      "name": "ASHB ASKBKJ",
+      "email": "abc@gmail.com",
+      "phone": "7894561237",
+      "message": "yasgiunsnklfjeiuehiu",
+      "userId": 4,
+      "createdAt": "2025-12-04T13:41:51.692Z",
+      "id": 9
+    },
+    {
+      "propertyId": 3,
+      "propertyName": "House 3",
+      "agentName": "Amado Smith",
+      "name": "hsabhabihb",
+      "email": "abc@gmail.com",
+      "phone": "87891546546",
+      "message": "asdesdifurnon",
+      "userId": null,
+      "createdAt": "2025-12-04T13:50:19.548Z",
+      "id": 10
+    },
+    {
+      "propertyId": 2,
+      "propertyName": "House 2",
+      "agentName": "Daryl Hawker",
+      "name": "mahendra",
+      "email": "mahi@gmail.com",
+      "phone": "7075252230",
+      "message": "Hello , I'm interested to buy this house , please let me know its features and all , Please mail me . I'm interested to buy it . Thanks",
+      "userId": 5,
+      "createdAt": "2025-12-04T13:57:06.878Z",
+      "id": 11
+    },
+    {
+      "propertyId": 11,
+      "propertyName": "House 8",
+      "agentName": "Sofia Gomes",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "6305710500",
+      "message": "i want to buy this house",
+      "userId": 10,
+      "createdAt": "2025-12-04T14:55:08.841Z",
+      "id": 12
+    },
+    {
+      "propertyId": 7,
+      "propertyName": "Apartament 1",
+      "agentName": "Jawhar Shamil Naser",
+      "name": "harsha",
+      "email": "harsha123@gmail.com",
+      "phone": "6305710500",
+      "message": "i am interested to buy this",
+      "userId": 12,
+      "createdAt": "2025-12-04T15:19:02.531Z",
+      "id": 13
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "House 1",
+      "agentName": "Patricia Tullert",
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "phone": "6305710500",
+      "message": "iufsdsabiglir",
+      "userId": 12,
+      "createdAt": "2025-12-05T04:06:53.394Z",
+      "id": 14
+    },
+    {
+      "propertyId": 8,
+      "propertyName": "Apartament 2",
+      "agentName": "Juana Douglass",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "6305710500",
+      "message": "i am interested in buy this apartment",
+      "userId": 13,
+      "createdAt": "2025-12-05T05:29:40.075Z",
+      "id": 15
+    },
+    {
+      "propertyId": 7,
+      "propertyName": "Apartament 1",
+      "agentName": "Jawhar Shamil Naser",
+      "name": "harsha",
+      "email": "harsha@gmail.com",
+      "phone": "2415632145",
+      "message": "here  i  want buy the home",
+      "userId": 14,
+      "createdAt": "2025-12-05T11:42:09.296Z",
+      "id": 16
+    }
+  ]
+}
